@@ -1,1 +1,1 @@
-print("hellllllllllllllllllllllllllllllllllllllllllllllllllllllllllllloooo")
+print("hello")
